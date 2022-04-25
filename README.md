@@ -1,4 +1,4 @@
-#  Recipe Search API using Edamam https://edamam-search-api.herokuapp.com
+#  Recipe Search API https://edamam-search-api.herokuapp.com
 
 This project was made for me to learn about ReactJS and public APIs.
 
