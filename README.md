@@ -12,4 +12,4 @@ The project used Edamam API to fetch food recipes on the internet, using ingredi
 - Different React Components Libraries.
 
 
-![a](https://gyazo.com/cf101e358b76b8edc05d6eed69d6d9a8)
+![](https://gyazo.com/cf101e358b76b8edc05d6eed69d6d9a8.gif)
