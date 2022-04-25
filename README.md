@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+#  Recipe Search API using Edamam https://edamam-search-api.herokuapp.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made for me to learn about ReactJS and public APIs.
 
-## Available Scripts
+The project used Edamam API to fetch food recipes on the internet 
+
+## Techniques/ Technologies used//
 
 In the project directory, you can run:
 
